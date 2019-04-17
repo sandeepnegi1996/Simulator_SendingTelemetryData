@@ -1,0 +1,110 @@
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\EMG1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Collab\Demo\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Master\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+D:\Masters\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+C:\Users\END1COB\Desktop\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.deps.json
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.json
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.runtimeconfig.dev.json
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\bin\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csprojAssemblyReference.cache
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.csproj.CoreCompileInputs.cache
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfoInputs.cache
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.AssemblyInfo.cs
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.dll
+D:\Master with APi_Susmita\MastersRestApi\Collab\Smart AR Inspector\Send_Data_To_IOT\simulated-device\obj\Debug\netcoreapp2.1\Send_Data_To_Azure.pdb

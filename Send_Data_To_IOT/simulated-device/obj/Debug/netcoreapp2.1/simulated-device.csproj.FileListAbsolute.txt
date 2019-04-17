@@ -1,0 +1,65 @@
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\UGM1COB\Documents\Visual Studio 2017\Azure sample\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\UGM1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\EMG1COB\Desktop\Send_Data_To_Iot_and_Read_Data_To_TextFile_CSharp\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+D:\presentation\Megha\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csprojAssemblyReference.cache
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\END1COB\Desktop\working poc\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.deps.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.runtimeconfig.dev.json
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\bin\Debug\netcoreapp2.1\simulated-device.pdb
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.csproj.CoreCompileInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfoInputs.cache
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.AssemblyInfo.cs
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.dll
+C:\Users\END1COB\Desktop\Smart AR Inpector\Send_Data_To_IOT\Quickstarts\simulated-device\obj\Debug\netcoreapp2.1\simulated-device.pdb
